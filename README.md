@@ -1,4 +1,4 @@
-# 🎓 Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure ☁️
+#  Bootcamp Microsoft 50 Anos - Computação em Nuvem com Azure ☁️
 
 Este repositório é um resumo dos conhecimentos que adquiri ao participar do **Bootcamp Microsoft 50 Anos** focado em **Computação em Nuvem com Azure**. Abaixo, explico os principais conceitos que aprendi ao longo da jornada! 🚀
 
